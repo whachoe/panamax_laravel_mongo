@@ -1,0 +1,14 @@
+---
+name: Laravel with mongo
+description: Run Laravel with mongo as backend. This is just to test stuff. It might
+  not even work ;-)
+keywords: ''
+type: LAMP
+documentation: ''
+images:
+- name: mongo_latest
+  source: mongo:latest
+  type: Default
+- name: dmyers_laravel
+  source: dmyers/laravel:latest
+  type: Default
