@@ -9,6 +9,6 @@ images:
 - name: mongo_latest
   source: mongo:latest
   type: Default
-- name: dmyers_laravel
-  source: dmyers/laravel:latest
+- name: joostlaan_hhvm-laravel
+  source: joostlaan/hhvm-laravel:latest
   type: Default
